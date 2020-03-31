@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ctran79.github.io/2020/03/31/hello-world/</loc>
+    <loc>https://ctran79.github.io/2020/03/31/My-blog-new-journey/</loc>
     
-    <lastmod>2020-03-31T10:49:47.831Z</lastmod>
+    <lastmod>2020-03-31T11:58:46.056Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ctran79.github.io/about/</loc>
+    
+    <lastmod>2020-03-31T11:44:56.282Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ctran79.github.io/search/</loc>
+    
+    <lastmod>2020-03-31T11:36:58.677Z</lastmod>
     
   </url>
   
